@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyadeepgogoi&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyadeepgogoi" /> </p>
 
-- 👨‍💻 All of my projects are available at [Lakshyadeep-Gogoi](lakshyadeepgogoi.netlify.app)
+- 👨‍💻 All of my projects are available at [lakshyadeepgogoi.netlify.app](https://lakshyadeepgogoi.netlify.app/)
 
 - 📫 How to reach me **lakshyadeep19@gmail.com**
 
